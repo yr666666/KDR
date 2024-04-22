@@ -1,0 +1,9 @@
+torch==1.7.1+cu110
+torch-geometric==2.0.4
+torchaudio==0.7.2
+torchvision==0.8.2+cu110debugpy==1.6.3
+numpy==1.21.6
+ipdb==0.13.9
+Pillow==9.4.0
+tqdm==4.60.0
+transformers==4.17.0
